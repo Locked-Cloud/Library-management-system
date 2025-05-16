@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Library-management-system-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pdfbox-2.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fontbox-2.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flatlaf-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
